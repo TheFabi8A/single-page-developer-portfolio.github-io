@@ -1,0 +1,15 @@
+*,*::after,*::before {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+:root {
+    --matte-black: hsl(0deg 0% 8%);
+    --mint-jelly: hsl(153deg 71% 59%);
+    --verified-black: hsl(0deg 0% 14%);
+    --silver-shadow: hsl(0deg 0% 85%);
+    --snow-white: hsl(0deg 0% 100%);
+    --grapefruit-pulp: hsl(7deg 100% 68%);
+}
